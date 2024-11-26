@@ -1,12 +1,24 @@
 # CUSTOMER PERSONALITY ANALYSIS
 
-## INTRODUCTION
+## CONTENT
+•  [INTRODUCTION](#INTRODUCTION)
+
+•  [KEY INSIGHT](#KEY-INSIGHT)
+
+•  [ANALYSIS](#ANALYSIS)
+
+•  [RECOMMENDATION](#RECOMMENDATION)
+
+•  [CONCLUSION](#CONCLUSION)
+
+
+### INTRODUCTION
 
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers. 
 
 Customer personality analysis helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment. 
 
-## KEY INSIGHT
+### KEY INSIGHT
 
 •  Identify distinct customer groups based on demographics and spending
 
@@ -18,7 +30,7 @@ Customer personality analysis helps a business to modify its product based on it
 
 •   Highlight high-value customers
 
-## ANALYSIS
+### ANALYSIS
 
 The  analysis reveals distinct customer groups based on demographics and spending patterns. Married customers lead total spending, contributing approximately $200K, followed closely by customers in "Together" relationships. Single customers rank third with a total spending of $150K.
 
@@ -34,7 +46,7 @@ Analysis of age demographics reveals that older customers significantly contribu
 
 Expanding product offerings tailored to this niche—such as items catering to older customers' preferences—presents a strategic opportunity to boost sales and strengthen customer loyalty within this high-value demographic.
 
-## RECOMMENDATIONS
+### RECOMMENDATIONS
 
 1.	Target High-Value Segments:
 Focus marketing and product offerings on high-income customers, particularly those with Graduation and PhD education levels. These customers exhibit the highest spending potential and should be prioritized in targeted campaigns and premium product lines.
@@ -49,7 +61,8 @@ Create age-specific marketing strategies. Offer discounts, promotions, or loyalt
 6.	Utilize Data-Driven Personalization:
 Use data to build personalized experiences for each customer segment, combining insights on income, education, marital status, and age to tailor product recommendations, promotions, and communication strategies.
 
-# CONCLUSION
+### CONCLUSION
 For more wider screen, visit the tableau dashboard
-[DASHBOARD](#https://public.tableau.com/app/profile/lekan.haruna/vizzes)
+
+[DASHBOARD](https://public.tableau.com/app/profile/lekan.haruna/vizzes)
 
